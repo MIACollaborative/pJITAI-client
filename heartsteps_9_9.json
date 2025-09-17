@@ -1,0 +1,84 @@
+{
+  "created_date": "9/9/2025, 12:49:42 PM",
+  "number_of_days": "3",
+  "missing_upload_ratio": "0.1",
+  "simulation_data": [
+    {
+      "type": "decision",
+      "content": {
+        "user_id": 1,
+        "timestamp": "9/9/2025, 12:49:42 PM",
+        "state_data": {
+          "Location_validation_status_code": [
+            "SUCCESS"
+          ],
+          "Location": 0,
+          "(log) Prior 30 minute step count_validation_status_code": [
+            "SUCCESS"
+          ],
+          "(log) Prior 30 minute step count": 1.1895066428833767
+        }
+      }
+    },
+    {
+      "type": "upload",
+      "content": {
+        "user_id": 1,
+        "timestamp": "9/9/2025, 12:49:42 PM",
+        "proximal_outcome": 6.390240737241985,
+        "proximal_outcome_timestamp": "9/9/2025, 12:49:42 PM",
+        "decision_id": 1
+      }
+    },
+    {
+      "type": "decision",
+      "content": {
+        "user_id": 1,
+        "timestamp": "9/10/2025, 12:49:42 PM",
+        "state_data": {
+          "Location_validation_status_code": [
+            "SUCCESS"
+          ],
+          "Location": 1,
+          "(log) Prior 30 minute step count_validation_status_code": [
+            "SUCCESS"
+          ],
+          "(log) Prior 30 minute step count": 1.6461155221090302
+        }
+      }
+    },
+    {
+      "type": "update",
+      "content": {
+        "user_id": 1
+      }
+    },
+    {
+      "type": "decision",
+      "content": {
+        "user_id": 1,
+        "timestamp": "9/11/2025, 12:49:42 PM",
+        "state_data": {
+          "Location_validation_status_code": [
+            "SUCCESS"
+          ],
+          "Location": 1,
+          "(log) Prior 30 minute step count_validation_status_code": [
+            "SUCCESS"
+          ],
+          "(log) Prior 30 minute step count": 6.226155333926805
+        }
+      }
+    },
+    {
+      "type": "upload",
+      "content": {
+        "user_id": 1,
+        "timestamp": "9/11/2025, 12:49:42 PM",
+        "proximal_outcome": 2.2200468294656828,
+        "proximal_outcome_timestamp": "9/11/2025, 12:49:42 PM",
+        "decision_id": 3
+      }
+    }
+  ]
+}
